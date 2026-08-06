@@ -190,6 +190,28 @@ This makes the system suitable for:
 
 ---
 
+## Run with Docker
+
+### Build
+
+```bash
+docker build -t research-streamlit .
+```
+
+### Docker Image
+
+```bash
+docker run -p 8501:8501 deepakachyutha/research-streamlit:latest
+```
+
+### Run
+
+```bash
+docker run -p 8501:8501 research-streamlit
+```
+
+---
+
 ## Tech Stack
 
 ### Languages
