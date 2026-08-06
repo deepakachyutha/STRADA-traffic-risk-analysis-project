@@ -1,0 +1,8 @@
+.venv
+venvcar
+.git
+.gitignore
+__pycache__
+*.pyc
+.DS_Store
+.devcontainer_backup
